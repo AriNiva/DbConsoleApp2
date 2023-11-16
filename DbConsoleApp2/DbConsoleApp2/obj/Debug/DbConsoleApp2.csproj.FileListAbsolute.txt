@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\DbConsoleApp2\DbConsoleApp2\bin\Debug\DbConsoleApp2.exe.config
+C:\Users\arinp\source\repos\DbConsoleApp2\DbConsoleApp2\bin\Debug\DbConsoleApp2.exe
+C:\Users\arinp\source\repos\DbConsoleApp2\DbConsoleApp2\bin\Debug\DbConsoleApp2.pdb
+C:\Users\arinp\source\repos\DbConsoleApp2\DbConsoleApp2\obj\Debug\DbConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\DbConsoleApp2\DbConsoleApp2\obj\Debug\DbConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\DbConsoleApp2\DbConsoleApp2\obj\Debug\DbConsoleApp2.exe
+C:\Users\arinp\source\repos\DbConsoleApp2\DbConsoleApp2\obj\Debug\DbConsoleApp2.pdb
